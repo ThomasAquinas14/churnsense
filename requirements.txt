@@ -1,0 +1,15 @@
+jupyterlab
+ipykernel
+nbformat
+nbclient
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+streamlit
+joblib
+pytest
+
